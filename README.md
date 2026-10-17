@@ -2,6 +2,8 @@
 
 AI extraction is only useful if people can trust it and fix it quickly. This project is a front-end prototype of that review step: a two-pane interface for checking structured data pulled from financial documents such as capital call notices, fund reports and invoices.
 
+**Live demo:** https://73e2ee93.extraction-review.pages.dev/
+
 ## What it does
 
 - Renders the source PDF in the browser with pdf.js
