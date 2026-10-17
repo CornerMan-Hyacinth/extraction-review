@@ -68,7 +68,9 @@ export default function FieldList({
               </div>
             ) : (
               <div className="mt-1 flex items-center justify-between">
-                <span className="text-sm font-medium">{f.value}</span>
+                <span className="text-sm font-medium text-black">
+                  {f.value}
+                </span>
                 {needsReview && (
                   <span className="flex gap-2 text-xs">
                     <button

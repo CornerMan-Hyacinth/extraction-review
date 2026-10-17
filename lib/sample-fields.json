@@ -1,0 +1,132 @@
+[
+  {
+    "id": "fund",
+    "label": "Fund name",
+    "value": "Meridian Growth Partners III",
+    "confidence": 0.99,
+    "page": 1,
+    "box": [
+      248,
+      149,
+      150,
+      12.2
+    ]
+  },
+  {
+    "id": "notice-date",
+    "label": "Notice date",
+    "value": "2026-09-30",
+    "confidence": 0.97,
+    "page": 1,
+    "box": [
+      248,
+      185,
+      60.3,
+      12.2
+    ]
+  },
+  {
+    "id": "investor",
+    "label": "Investor",
+    "value": "Harlow Pension Trust",
+    "confidence": 0.95,
+    "page": 1,
+    "box": [
+      248,
+      221,
+      114.6,
+      12.2
+    ]
+  },
+  {
+    "id": "commitment",
+    "label": "Total commitment",
+    "value": "USD 5,000,000.00",
+    "confidence": 0.96,
+    "page": 1,
+    "box": [
+      248,
+      257,
+      94.5,
+      12.2
+    ]
+  },
+  {
+    "id": "call-pct",
+    "label": "Call percentage",
+    "value": "25.0%",
+    "confidence": 0.88,
+    "page": 1,
+    "box": [
+      248,
+      293,
+      35.2,
+      12.2
+    ]
+  },
+  {
+    "id": "call-amount",
+    "label": "Capital call amount",
+    "value": "USD 1,250,000.00",
+    "confidence": 0.74,
+    "page": 1,
+    "box": [
+      248,
+      329,
+      94.5,
+      12.2
+    ]
+  },
+  {
+    "id": "due-date",
+    "label": "Due date",
+    "value": "2026-10-15",
+    "confidence": 0.58,
+    "page": 1,
+    "box": [
+      248,
+      365,
+      60.3,
+      12.2
+    ]
+  },
+  {
+    "id": "bank",
+    "label": "Beneficiary bank",
+    "value": "First Harbor Bank",
+    "confidence": 0.96,
+    "page": 1,
+    "box": [
+      248,
+      401,
+      96.7,
+      12.2
+    ]
+  },
+  {
+    "id": "account",
+    "label": "Account number",
+    "value": "004821937",
+    "confidence": 0.93,
+    "page": 1,
+    "box": [
+      248,
+      437,
+      59,
+      12.2
+    ]
+  },
+  {
+    "id": "wire-ref",
+    "label": "Wire reference",
+    "value": "MGP3-CC-0042",
+    "confidence": 0.91,
+    "page": 1,
+    "box": [
+      248,
+      473,
+      82.8,
+      12.2
+    ]
+  }
+]
